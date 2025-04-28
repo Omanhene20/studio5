@@ -1,6 +1,6 @@
 1. List the names of the people who worked together on this studio.
-[Your Name Here]
-[Partner Name if applicable]
+[KWABENA ADJEI OMANHENE-GYIMAH]
+
 
 2. Create a new program fork.c, use printf() and getpid(), run three times, paste output.
 Sample output from running the program three times:
